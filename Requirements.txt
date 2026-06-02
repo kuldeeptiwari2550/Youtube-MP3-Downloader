@@ -1,0 +1,2 @@
+- Python 3.10+
+- FFmpeg installed and added to PATH
